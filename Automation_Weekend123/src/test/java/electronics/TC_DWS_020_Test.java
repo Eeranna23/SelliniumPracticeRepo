@@ -20,6 +20,10 @@ public class TC_DWS_020_Test extends BaseClass{
 		hp.getElectronicslink().click();
 		Assert.assertEquals(driver.getTitle(), "Demo Web Shop. Electronics");
 		test.log(Status.PASS, "Electronics page is displayed");
+		
+
+token-----------------
+
 	}
 	
 
